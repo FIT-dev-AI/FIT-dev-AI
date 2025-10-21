@@ -3,7 +3,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vue,nodejs,express,flutter,mysql,redis,aws,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=python,react,vue,nodejs,express,flutter,mysql,aws,docker,firebase" />
 </p>
 
 <p align="center">
