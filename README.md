@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <strong>Võ Tấn Phát</strong></h1>
+<h1 align="center">👋 Hi, I'm <strong>FIT</strong></h1>
 <h3 align="center">AI / Machine Learning Engineer (Python) • Full-Stack Developer</h3>
 
 <p align="center">
