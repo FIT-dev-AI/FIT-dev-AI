@@ -1,61 +1,35 @@
-<h1 align="center">👋 Xin chào, mình là <strong>Võ Tấn Phát</strong></h1>
-<h3 align="center">AI / Machine Learning Engineer (Python) • Full-Stack Developer</h3>
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="mailto:tanphata4nh1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tanphata4nh1%40gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://github.com/FIT-dev-AI">
-    <img src="https://komarev.com/ghpvc/?username=FIT-dev-AI&style=flat-square&color=blue" />
-  </a>
-  <a href="https://www.facebook.com/wdym1303/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/___tp13">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vue,nodejs,express,flutter,mysql,redis,aws,docker,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🤖 AI-Powered Coding & Automation
 
-- 🤖 Đam mê **AI & Machine Learning**, đặc biệt trong **Deep Learning** và **NLP**  
-- 💻 Song song là **Full-Stack Developer**, yêu thích xây dựng sản phẩm end-to-end  
-- 🐍 Thành thạo **Python** cùng các thư viện: `NumPy`, `Pandas`, `TensorFlow`, `PyTorch`, `Scikit-learn`  
-- ⚙️ Kinh nghiệm với: `Vue.js`, `React`, `Node.js`, `Express`, `Flutter`, `Redis`, `MySQL`, `SQL Server`, `AWS`, `Docker`, `Firebase`  
-- 🚀 Mục tiêu: Trở thành **AI Engineer / MLOps** chuyên nghiệp & **Indie AI Developer**  
-- 🧩 Hiện đang học thêm về **LLMs**, **Prompt Engineering**, và **AI Agents**
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20AI-3722E9?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20CodeWhisperer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-1B1F23?style=for-the-badge&logo=githubcopilot&logoColor=00C4FF" />
+</p>
+
+<p align="center">
+  🚀 <em>Leveraging AI tools to accelerate development, automate workflows, and build intelligent systems end-to-end.</em>
+</p>
 
 ---
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript" />
-</p>
-
-### 🤖 AI / Machine Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### 🌐 Frontend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,flutter" />
-</p>
-
-### ⚙️ Backend Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
-### 🗄️ Database & DevOps  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,redis,aws,docker" />
-</p>
-
 ---
 
 ## 🚧 Projects
