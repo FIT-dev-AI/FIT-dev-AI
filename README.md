@@ -5,15 +5,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,vue,nodejs,express,flutter,mysql,aws,docker,firebase" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
 ---
 
 ## 🤖 AI-Powered Coding & Automation
@@ -24,11 +15,6 @@
   <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-1B1F23?style=for-the-badge&logo=githubcopilot&logoColor=00C4FF" />
 </p>
-
-<p align="center">
-  🚀 <em>Leveraging AI tools to accelerate development, automate workflows, and build intelligent systems end-to-end.</em>
-</p>
-
 ---
 ---
 
