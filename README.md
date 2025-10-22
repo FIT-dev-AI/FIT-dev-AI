@@ -18,11 +18,9 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 🚀 Passionate about building **AI-powered products** that combine intelligent automation with full-stack engineering.  
-💡 Focused on **Machine Learning**, **LLMs**, and **AI integration** into real-world applications.  
-🌐 Skilled at developing end-to-end systems — from **data to deployment** — using modern web and cloud technologies.  
 🎯 Goal: Become a top-tier **AI Engineer / MLOps Developer** capable of delivering scalable, intelligent systems.
 
 ---
